@@ -23,17 +23,17 @@ Simple and easy, should bring us no trouble, right?
 + ❌ Not Working
 #
 ### How to utilize:
-1. Use the app of your preference. I use **VSCode**, which you can download **[Here](https://code.visualstudio.com/download)**.
+1. Use the app of your preference. I use **VSCode**, which you can download **[Here](https://code.visualstudio.com/download)** and **[OnlineGDB](https://www.onlinegdb.com)**.
 2. Download the files in **System**, using the version of your preference.
 3. Run as given, or edit and then Run with your own experiments.
 #
 ### Ideas TO DO (10/06):
-- Make windows instead of just using the prompt box 🔶
-- Make Sign In code 🔶
+- Make windows instead of just using the prompt box ❌
+- Make Sign In code ✅
 - Make Log In code 🔶
 - Make Profile's body structure 🔶
-- Make Profile's information customizable 🔶
-- Make menus 🔶
+- Make Profile's information customizable ✴️
+- Make menus ✅
 #
 #
 # Português
@@ -61,14 +61,14 @@ Simples e fácil, não deve nos dar problema, certo?
 + ❌ Não Funciona
 #
 ### Como utilizar:
-1. Use o aplicativo de sua preferência. Eu uso o **VSCode**, que você pode baixar **[aqui](https://code.visualstudio.com/download)**.
+1. Use o aplicativo de sua preferência. Eu uso o **VSCode**, que você pode baixar **[aqui](https://code.visualstudio.com/download)**, e **[OnlineGDB](https://www.onlinegdb.com)**.
 2. Baixe os arquivos na pasta **System**, usando a versão de sua preferência.
 3. Execute conforme fornecido ou edite e depois execute com seus próprios experimentos.
 
 ### Ideias PARA FAZER (10/06):
-- Criar janelas em vez de usar apenas a caixa de prompt 🔶  
-- Criar código de Cadastro 🔶  
-- Criar código de Login 🔶  
+- Criar janelas em vez de usar apenas a caixa de prompt ❌
+- Criar código de Cadastro ✅
+- Criar código de Login 🔶
 - Criar a estrutura do corpo do Perfil 🔶  
-- Tornar as informações do Perfil personalizáveis 🔶  
-- Criar menus 🔶 
+- Tornar as informações do Perfil personalizáveis ✴️
+- Criar menus ✅
