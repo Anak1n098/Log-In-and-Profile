@@ -28,7 +28,7 @@ Simple and easy, should bring us no trouble, right?
 3. Run as given, or edit and then Run with your own experiments.
 #
 ### Ideas TO DO (10/06):
-- Make windows instead of just using the prompt box ❌
+- Make windows instead of just using the prompt box 🔶
 - Make Sign In code ✅
 - Make Log In code 🔶
 - Make Profile's body structure 🔶
@@ -66,7 +66,7 @@ Simples e fácil, não deve nos dar problema, certo?
 3. Execute conforme fornecido ou edite e depois execute com seus próprios experimentos.
 
 ### Ideias PARA FAZER (10/06):
-- Criar janelas em vez de usar apenas a caixa de prompt ❌
+- Criar janelas em vez de usar apenas a caixa de prompt 🔶
 - Criar código de Cadastro ✅
 - Criar código de Login 🔶
 - Criar a estrutura do corpo do Perfil 🔶  
