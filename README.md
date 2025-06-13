@@ -27,13 +27,21 @@ Simple and easy, should bring us no trouble, right?
 2. Download the files in **System**, using the version of your preference.
 3. Run as given, or edit and then Run with your own experiments.
 #
-### Ideas TO DO (10/06):
+### Ideas TO DO (10-11/06):
 - Make windows instead of just using the prompt box 🔶
 - Make Sign In code ✅
 - Make Log In code 🔶
 - Make Profile's body structure 🔶
 - Make Profile's information customizable ✴️
 - Make menus ✅
+
+### Ideas TO DO (13/06):
+- Make windows instead of just using the prompt box 🔶
+- Make Log In code ✅
+- Enhanced Sign In code ✅
+- Make Administrator permissions ✅
+- Make Profile's information customizable ✅
+- Make Profile's body structure 🔶
 #
 #
 # Português
@@ -65,10 +73,18 @@ Simples e fácil, não deve nos dar problema, certo?
 2. Baixe os arquivos na pasta **System**, usando a versão de sua preferência.
 3. Execute conforme fornecido ou edite e depois execute com seus próprios experimentos.
 
-### Ideias PARA FAZER (10/06):
+### Ideias PARA FAZER (10-11/06):
 - Criar janelas em vez de usar apenas a caixa de prompt 🔶
 - Criar código de Cadastro ✅
 - Criar código de Login 🔶
 - Criar a estrutura do corpo do Perfil 🔶  
 - Tornar as informações do Perfil personalizáveis ✴️
 - Criar menus ✅
+
+### Ideias PARA FAZER (13/06):
+- Criar janelas em vez de usar apenas a caixa de prompt 🔶
+- Criar código de Login ✅
+- Melhorar código de Cadastro ✅
+- Criar permissões de administrador ✅
+- Tornar as informações do Perfil personalizáveis ✅
+- Criar a estrutura do corpo do Perfil 🔶
