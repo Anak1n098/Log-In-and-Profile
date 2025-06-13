@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         showWelcomeMessage();
         
-        // Cadastra o admin se não existir
+       
         if (userManager.authenticate("admin@system", "admin123") == null) {
             userManager.registerUser(scanner, true);
         }
